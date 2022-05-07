@@ -1,5 +1,5 @@
 # Python Password Generator
-##### THIS SIMPLE PROJECT WAS MADE TO LEARN PYTHON LIBRARY FUNCTIONS LIKE `string` & `random`.
+##### THIS SIMPLE PYTHON PROJECT WHICH CAN GENERATE PASSWORDS.
 
 * `string.ascii_letters`
 	- The concatenation of the ascii_lowercase and ascii_uppercase constants described below. This value is not locale-dependent.
